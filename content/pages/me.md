@@ -4,12 +4,33 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-### Nice to meet you.
+## Nice to meet you!
 
-I like to explore power and the ways in which we allow ourselves to be subject to it.
+### Who is this guy
 
-I do this primarily by writing stories.
+Well..
 
-I can't really say what my stories are about, other than that they're about power. I love to explore the ways we relate to one another and the consequences they create. I love to explore the ways we repress our own basic nature, and the ways in which that makes us susceptible to manipulation and control. I love to explore the ways in which others seek to manipulate and control us.
+> Three things are very hard: Steel, a Diamond, and to know Oneself.
+> _Benjamin Franklin_
 
-My major project right now is a modern take on Milton's Paradise Lost. It's set in a version of Heaven not too dissimilar from our Earth, where God sits in judgment but has little interest in defining the parameters of that judgment -- He leaves that up to His subjects. Perhaps unsurprisingly, Heavenly civilisation is falling into decline, and its people (angels?) are eager for a strong, charismatic leader to restore its former glory.
+But I do my best.
+
+I'm just another human trying to get along in this mad world. Doing my what I can to do and be better each day, to live well, eat better, and love best.
+
+I grew up in/near Wellington, New Zealand. I live in Kreuzberg, Berlin.
+
+I particularly love cheese of various kinds, fried chicken, and a good burger (preferably with beetroot and a fried egg #kiwiburger). I love to climb things and walk long distances. I like my own company better than most.
+
+I'm interested in finding and speaking truth, in telling stories, in experiencing quality and appreciating beauty, and in leaving this world better than I found it.
+
+And I'm happy to laugh at almost anything.
+
+### What does he do
+
+I like to explore power and the ways in which we use it and allow ourselves to be subject to it.
+
+I do this primarily by [writing stories](/pages/do/).
+
+I also do this by organising things. OK, not just any old things. [Burning Man things](https://burningman.org/culture/philosophical-center/10-principles/), and [this thing](https://www.coopspace.net/wp-content/uploads/2020/06/FlyerCoopspace_.pdf).
+
+One more thing which I like doing is building things. You can find some of the things I've built [here](/pages/do/).
