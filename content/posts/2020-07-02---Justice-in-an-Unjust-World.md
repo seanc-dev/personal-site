@@ -13,7 +13,7 @@ description: "An ancient angelic prosecutor laments the difficulty of bringing e
 socialImage: "/media/image-0.jpg"
 ---
 
-"Madam Witch," began the prosecutor in the weary tones of an ageing public servant who, after so many years of service, very rarely finds himself surprised. "Are you honestly going to sit here and tell the court that you had a contractual right to eat those two children? May I remind you that you are under oath - and that the Judge is omniscient?"
+"Madam Witch," began the prosecutor in the weary tones of an ageing public servant who, after so many years of service, very rarely finds himself surprised. "Are you honestly going to sit here and tell the court that you had a contractual right to eat those two children? May I remind you that you are under oath - _and that the Judge is omniscient?_"
 
 "Look! 'ere it is! Righ' 'ere!" the old hag contended, "art'cle 17, clause four! Righ' 'ere in plain papyrus! I've got copies if ye need 'em!" insisted the witch, waving a bound sheaf of parchment at him.
 
@@ -51,4 +51,4 @@ She was right, thought the prosecutor. It was hardly surprising: one of the at-t
 
 He was so comfortable, in fact, that he did not immediately recognise the familiar face accompanying the bulletin for the night's headline story, entitled "Guess Who's Coming To Dinner?":
 
-"Hansel and Grettel were found guilty this afternoon of wanton destruction (and consumption) of property, with the Almighty ruling in favour of The Witch's contractual rights to consume them, body and soul. This after the prosecution failed to press their case earlier in the day for what many experts had called 'an open-and-shut-case' of attempted cannibalism. You won't have to miss a moment of the action: we're coming to you live from 5 Gingerbread Lane as the children pay their dues."
+_"Hansel and Grettel were found guilty this afternoon of wanton destruction (and consumption) of property, with the Almighty ruling in favour of The Witch's contractual rights to consume them, body and soul. This after the prosecution failed to press their case earlier in the day for what many experts had called 'an open-and-shut-case' of attempted cannibalism. You won't have to miss a moment of the action: we're coming to you live from 5 Gingerbread Lane as the children pay their dues."_
