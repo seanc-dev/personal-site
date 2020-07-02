@@ -5,26 +5,30 @@ module.exports = {
   pathPrefix: "/",
   title: "Random Neural Firing",
   subtitle: `A cross-section of who I am and what I can do with a little bit of what I've done and what I'm doing.`,
-  copyright: "All content published under CC BY-NC-SA 4.0 license",
+  copyright: "© CC BY-NC-SA 4.0",
   disqusShortname: "",
   postsPerPage: 4,
   googleAnalyticsId: "",
   useKatex: false,
   menu: [
     {
+      label: "Thoughts",
+      path: "/",
+    },
+    {
       label: "Me",
       path: "/pages/me",
     },
     {
-      label: "What I do",
+      label: "Things I do",
       path: "/pages/do",
     },
     {
-      label: `What I've built`,
+      label: `Things I Build`,
       path: "/pages/build",
     },
     {
-      label: `What I've written`,
+      label: `Things I Write`,
       path: "/pages/write",
     },
     {
@@ -35,7 +39,7 @@ module.exports = {
   author: {
     name: "Sean Coley",
     photo: "/photo.jpg",
-    bio: "",
+    bio: `Coder, Thinker, Writer, Lover. \nNot necessarily in that order.`,
     contacts: {
       email: "",
       facebook: "#",
