@@ -4,7 +4,7 @@ module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
   title: "Random Neural Firing",
-  subtitle: `A cross-section of who I am and what I can do with a little bit of what I've done and what I'm doing.`,
+  subtitle: `A bit of who I am and what I think with some what I'm writing and what I'm doing.`,
   copyright: "© CC BY-NC-SA 4.0",
   disqusShortname: "",
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: "Thoughts",
+      label: "Writing and Rambling",
       path: "/",
     },
     {
@@ -24,12 +24,12 @@ module.exports = {
       path: "/pages/do",
     },
     {
-      label: `Things I Build`,
-      path: "/pages/build",
+      label: "Things I can do",
+      path: "/pages/can-do",
     },
     {
-      label: `Things I Write`,
-      path: "/pages/write",
+      label: `Things I build`,
+      path: "/pages/build",
     },
     {
       label: `Contact`,
