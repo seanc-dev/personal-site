@@ -1,31 +1,24 @@
 ---
-title: "Contact me"
+title: "Let's talk"
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
+You can reach me on social through one of the icons to the left.
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
+Alternatively, ping me a little note in this here only-for-humans form and I'll get back to you within the day.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-4.jpg)
+<form>
+  <fieldset class="mb-1">
+    <input class="form-control" type="text" placeholder="Subject">
+  </fieldset>
+  <fieldset class="mb-1">
+    <input class="form-control" type="email" placeholder="Enter your Email Address">
+  </fieldset>
+  <fieldset class="mb-1">
+    <textarea class="form-control" placeholder="'Hi Sean, I'd like to hire you for a very interesting project and I'm willing to pay you double market rate..'"></textarea>
+  </fieldset>
+  <button id="submit" class="btn">Submit!</button>
+</form>
 
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-## Header Level 2
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-- **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-- Vestibulum auctor dapibus neque.
-
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
