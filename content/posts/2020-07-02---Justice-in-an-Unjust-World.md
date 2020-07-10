@@ -9,11 +9,11 @@ tags:
   - "Fantasy"
   - "Wisdom"
   - "Absurdism"
-description: "An ancient angelic prosecutor laments the difficulty of bringing evil-doers to justice and the surprising lack of assistance he receives in that endeavour from the 'morally perfect' judge."
+description: "An ancient angelic prosecutor laments both the difficulty of bringing evil-doers to justice in the Kindom of Heaven, and the lack of assistance given in that endeavour from the 'morally perfect' judge."
 socialImage: "/media/image-0.jpg"
 ---
 
-"Madam Witch," began the prosecutor in the weary tones of an ageing public servant who, after so many years of service, very rarely finds himself surprised. "Are you honestly going to sit here and tell the court that you had a contractual right to eat those two children? May I remind you that you are under oath - _and that the Judge is omniscient?_"
+"Madam Witch," continued the prosecutor in the weary tone of an ageing public servant who thought he'd seen it all. "Are you honestly going to sit here and tell the court that you had a contractual right to eat those two children? May I remind you that you are under oath - _and that the Judge is omniscient?_".
 
 "Look! 'ere it is! Righ' 'ere!" the old hag contended, "art'cle 17, clause four! Righ' 'ere in plain papyrus! I've got copies if ye need 'em!" insisted the witch, waving a bound sheaf of parchment at him.
 
