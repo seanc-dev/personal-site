@@ -123,7 +123,7 @@ module.exports = {
             options: { wrapperStyle: "margin-bottom: 1.0725rem" },
           },
           {
-            resolve: "gatsby-remark-component rehype-react",
+            resolve: "gatsby-remark-component",
             options: { components: ["contact-form"] },
           },
           "gatsby-remark-autolink-headers",
