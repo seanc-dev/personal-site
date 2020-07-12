@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Random Neural Firing",
+  title: "Sean Si Dot Me",
   subtitle: `A bit of who I am and what I think with some what I'm writing and what I'm doing.`,
   copyright: "© CC BY-NC-SA 4.0",
   disqusShortname: "",
