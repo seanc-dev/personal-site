@@ -26,8 +26,6 @@ I love to explore:
 
 You can find a selection of my writing [here](/), and a snippet from the Paradise Lost project [here](/posts/justice-in-an-unjust-world).
 
----
-
 ## Coding
 
 I spent years working with relational databases in the corporate world until I decided to get series about building the full stack. Coding is now a genuine love of mine.
