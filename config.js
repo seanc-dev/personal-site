@@ -34,8 +34,8 @@ module.exports = {
   ],
   author: {
     name: "Sean Coley",
-    photo: "/Avatar.jpg",
-    bio: `Coder, Thinker, Writer, Lover. \nNot necessarily in that order.`,
+    photo: "/avatar.png",
+    bio: `Coder, Thinker, Writer, Lover. Not necessarily in that order.`,
     contacts: {
       email: "",
       facebook: "sean.coley2/",
