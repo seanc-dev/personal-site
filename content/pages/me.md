@@ -6,14 +6,11 @@ socialImage: "/media/image-2.jpg"
 
 ## Nice to meet you!
 
-### Who is this guy
+### Who am I?
 
-Well..
+Great question.
 
-> Three things are very hard: Steel, a Diamond, and to know Oneself.
-> _Benjamin Franklin_
-
-But I do my best.
+Benjamin Franklin once said that, along with Steel and a Diamond, Self-knowledge is one of the hardest things there is. But here goes.
 
 I'm just another human trying to get along in this mad world. Doing my what I can to do and be better each day, to live well, eat better, and love best.
 
@@ -25,7 +22,7 @@ I'm interested in finding and speaking truth, in telling stories, in experiencin
 
 And I'm happy to laugh at almost anything.
 
-### What does he do
+### What do I do?
 
 I like to explore power and the ways in which we use it and allow ourselves to be subject to it.
 
