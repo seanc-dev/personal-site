@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: "Sean Coley",
     photo: "/photo.jpg",
-    bio: `Coder, Thinker, Writer, Lover. \nNot necessarily in that order.`,
+    bio: `This is not me ^ \nCoder, Thinker, Writer, Lover. \nNot necessarily in that order.`,
     contacts: {
       email: "",
       facebook: "sean.coley2/",
