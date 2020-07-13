@@ -39,11 +39,13 @@
   ],
   "dependencies": {
     "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "bluebird": "^3.7.2",
     "bootstrap": "^4.5.0",
     "classnames": "^2.2.6",
     "codecov": "^3.6.5",
     "emailjs-com": "^2.4.1",
+    "formik": "^2.1.4",
     "gatsby": "^2.24.2",
     "gatsby-cli": "^2.12.52",
     "gatsby-link": "^2.3.2",
@@ -85,7 +87,8 @@
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
-    "rehype-react": "^6.0.0"
+    "rehype-react": "^6.0.0",
+    "yup": "^0.29.1"
   },
   "devDependencies": {
     "@babel/core": "7.9.0",
