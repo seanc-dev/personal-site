@@ -2,10 +2,13 @@
 import React from "react";
 import { graphql } from "gatsby";
 import rehypeReact from "rehype-react";
+import { ThemeProvider } from "@material-ui/core/styles";
+import theme from "../assets/mui-theme";
 import Layout from "../components/Layout";
 import Sidebar from "../components/Sidebar";
 import Page from "../components/Page";
-import ContactForm from "../components/ContactForm";
+import ContactForm from "../components/ContactForm/";
+
 import { useSiteMetadata } from "../hooks";
 import type { MarkdownRemark } from "../types";
 
@@ -30,21 +33,24 @@ const PageTemplate = ({ data }: Props) => {
   const renderAst = new rehypeReact({
     createElement: React.createElement,
     components: {
+      // "contact-form": ContactForm,
       "contact-form": ContactForm,
     },
   }).Compiler;
 
   return (
-    <Layout
-      title={`${pageTitle} - ${siteTitle}`}
-      description={metaDescription}
-      socialImage={socialImage}
-    >
-      <Sidebar />
-      <Page title={pageTitle}>
-        <div>{renderAst(pageBody)}</div>
-      </Page>
-    </Layout>
+    <ThemeProvider theme={theme}>
+      <Layout
+        title={`${pageTitle} - ${siteTitle}`}
+        description={metaDescription}
+        socialImage={socialImage}
+      >
+        <Sidebar />
+        <Page title={pageTitle}>
+          <div>{renderAst(pageBody)}</div>
+        </Page>
+      </Layout>
+    </ThemeProvider>
   );
 };
 

@@ -1,6 +1,8 @@
 // @flow strict
 import React from "react";
 import { graphql } from "gatsby";
+import { ThemeProvider } from "@material-ui/core/styles";
+import theme from "../assets/mui-theme";
 import Layout from "../components/Layout";
 import Sidebar from "../components/Sidebar";
 import Feed from "../components/Feed";
@@ -30,18 +32,20 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
     currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
 
   return (
-    <Layout title={pageTitle} description={siteSubtitle}>
-      <Sidebar isIndex />
-      <Page>
-        <Feed edges={edges} />
-        <Pagination
-          prevPagePath={prevPagePath}
-          nextPagePath={nextPagePath}
-          hasPrevPage={hasPrevPage}
-          hasNextPage={hasNextPage}
-        />
-      </Page>
-    </Layout>
+    <ThemeProvider theme={theme}>
+      <Layout title={pageTitle} description={siteSubtitle}>
+        <Sidebar isIndex />
+        <Page>
+          <Feed edges={edges} />
+          <Pagination
+            prevPagePath={prevPagePath}
+            nextPagePath={nextPagePath}
+            hasPrevPage={hasPrevPage}
+            hasNextPage={hasNextPage}
+          />
+        </Page>
+      </Layout>
+    </ThemeProvider>
   );
 };
 
