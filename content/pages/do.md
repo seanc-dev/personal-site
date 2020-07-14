@@ -4,7 +4,9 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-A short selection of the classically productive things I like to do to pass time, express myself, and make bank:
+A short selection of the classically productive things I like to do to pass time, express myself, and make bank.
+
+(Scroll down a little if you're here because you might like to hire me ;))
 
 ## Writing
 
@@ -28,7 +30,9 @@ You can find a selection of my writing [here](/), and a snippet from the Paradis
 
 ## Coding
 
-I spent years working with relational databases in the corporate world until I decided to get series about building the full stack. Coding is now a genuine love of mine.
+I spent years working with relational databases in the corporate world until I decided to get serious about building the full stack. Coding is now a genuine love of mine.
+
+You'll find a few of my projects below:
 
 ###### Personal Site
 
@@ -38,9 +42,7 @@ My most recent project is a lightning fast personal blog site (built using [gats
 
 ###### Website for Get Product People GmbH
 
-|                                                                                                                                                                                                                            |                                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| <div style="min-width: 66%">This one's another gatsby project (it was my first time using the technology). It's a business website for a friend who works in product development. Click the image to visit the site.</div> | [<img alt="getproductpeople.com" src="/media/getproductpeople.png" width="500">](https://getproductpeople.com/) |
+[This one's](https://getproductpeople.com/) another gatsby project (it was my first time using the technology). It's a business website for a friend who works in product development. Click the image to visit the site.
 
 ###### Franchise Reporting Platform
 
