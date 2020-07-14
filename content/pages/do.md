@@ -40,6 +40,20 @@ My most recent project is a lightning fast personal blog site (built using [gats
 
 ^\_^
 
+###### Color Palette Builder (React.js Progressive Web App)
+
+This is the most substantial and modern app I've built. It's a responsive single-page palette builder for web-design.
+
+Take a closer look [here](https://xenodochial-booth-c0b332.netlify.app).
+
+Or check out some screenies of the UI:
+
+![The home page](/media/color-picker-home.png)
+
+![The palette creation page, with the save dialog's emoji-picker open](/media/color-picker-create-emoji.png)
+
+![The palette viewing page](/media/color-picker-palette.png)
+
 ###### Website for Get Product People GmbH
 
 [This one's](https://getproductpeople.com/) another gatsby project (it was my first time using the technology). It's a business website for a friend who works in product development. Click the image to visit the site.
