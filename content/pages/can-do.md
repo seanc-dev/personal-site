@@ -15,7 +15,7 @@ Building stuff! I worked with databases in my corporate life for 4 years and alw
 </br>
 <img src="/media/JS.png" alt="Javascript" height="100" style="margin: auto">
 
-Javascript is my web-dev language of choice.
+Javascript is my web-dev language of choice. I love building beautiful, interactive, data-driven UIs for smart and powerful applications.
 
 I've built web-apps using the following javascript tech:
 
