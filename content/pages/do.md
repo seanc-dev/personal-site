@@ -42,7 +42,7 @@ My most recent project is a lightning fast personal blog site (built using [gats
 
 ###### Color Palette Builder (React.js Progressive Web App)
 
-This is the most substantial and modern app I've built. It's a responsive single-page palette builder for web-design.
+This is the most substantial and modern app I've built. It's a responsive single-page palette builder for web-design. It has a modular drag-and-drop UI built with Material-UI.
 
 Take a closer look [here](https://xenodochial-booth-c0b332.netlify.app).
 
